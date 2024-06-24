@@ -1,6 +1,5 @@
 cabbage
 carrot
-<<<<<<< HEAD
 potato
 
 
