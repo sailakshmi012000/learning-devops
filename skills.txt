@@ -1,3 +1,5 @@
 devops
 aws
 java
+
+Skills make us stronger
