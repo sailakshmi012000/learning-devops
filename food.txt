@@ -1,5 +1,9 @@
 cabbage
 carrot
+<<<<<<< HEAD
 potato
 
 Apples are good for health
+=======
+potato
+>>>>>>> a30a6c3a66d867cd4b28f38501f5dbb2c36e7a23
