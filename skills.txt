@@ -1,3 +1,5 @@
 devops
 aws
 java
+
+skills are most important in our daily life
