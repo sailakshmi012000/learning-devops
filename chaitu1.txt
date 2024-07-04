@@ -1,4 +1,4 @@
 
 hai
-this command i have used now is cat
+this command i have used now by using cat command
 
