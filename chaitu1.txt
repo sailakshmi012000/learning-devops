@@ -1,0 +1,4 @@
+
+hai
+this command i have used now is cat
+
